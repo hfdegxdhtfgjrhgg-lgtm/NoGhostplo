@@ -1,0 +1,16 @@
+name: NoGhost
+version: 1.0.0
+main: com.noghost.NoGhost
+api-version: '1.21'
+author: Fast
+description: Fix Ghost Hits
+
+commands:
+  noghost:
+    description: Reload config
+    usage: /noghost reload
+    permission: noghost.admin
+
+permissions:
+  noghost.admin:
+    default: op
