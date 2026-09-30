@@ -1,0 +1,11 @@
+combat:
+  enabled: true
+  high-ping-compensation: true
+  duplicate-hit-protection: true
+  distance-check: true
+  base-reach: 3.0
+  max-reach: 4.5
+  duplicate-window-ms: 50
+
+debug:
+  enabled: false
